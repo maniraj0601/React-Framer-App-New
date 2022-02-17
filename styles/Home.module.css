@@ -1,0 +1,91 @@
+.container {
+  padding: 0 2rem;
+  color: var(--color2);
+  margin-top: 1rem;
+  display: inline-block;
+  width: 100%;
+}
+
+.main {
+  min-height: 100vh;
+  padding: 4rem 0;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.listContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.profileImage {
+  border-radius: 8px;
+  object-fit: cover;
+}
+
+.listItem {
+  position: relative;
+  padding: 15px 20px;
+  margin-bottom: 1rem;
+  border-radius: 16px;
+  display: flex;
+  flex-direction: row;
+  cursor: pointer;
+  width: auto;
+}
+
+.textContainer {
+  padding-left: 15px;
+  flex: 1;
+}
+
+.bigText {
+  font-size: 20px;
+  text-align: left;
+  color: var(--color2);
+  font-weight: bold;
+  margin: 0;
+}
+
+.smallText {
+  font-size: 10px;
+  text-align: left;
+  color: var(--color2);
+  margin: 0;
+  font-weight: 500;
+}
+
+.priceContainer {
+  width: auto;
+}
+.priceAmount {
+  font-size: 24px;
+  text-align: left;
+  color: var(--color1);
+  margin: 0;
+  font-weight: bold;
+}
+.priceSubText {
+  font-size: 12px;
+  text-align: left;
+  color: var(--color1);
+  margin: 0;
+  font-weight: 700;
+}
+.grid {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  max-width: 800px;
+}
+
+@media (max-width: 767px) {
+  .grid {
+    width: 100%;
+    flex-direction: column;
+  }
+}

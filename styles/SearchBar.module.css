@@ -1,0 +1,38 @@
+.searchContainer {
+  width: 100%;
+  padding: 60px 32px;
+  background-color: #fff;
+  box-shadow: 0 1px 6px rgb(0 0 0 / 10%);
+}
+
+.closeButton {
+  all: unset;
+  position: absolute;
+  top: 1.5rem;
+  right: 2rem;
+  font-size: 28px;
+}
+
+.searchWrapper {
+  position: relative;
+}
+/* .searchWrapper::before {
+  content: "";
+  width: 0;
+  height: 2px;
+  background: #333;
+  position: absolute;
+  bottom: 0;
+} */
+
+.inputSearch {
+  border: 0;
+  background-color: #fff;
+  height: 50px;
+  line-height: 50px;
+  font-size: 20px;
+  width: 100%;
+}
+.inputSearch:focus {
+  outline: none;
+}

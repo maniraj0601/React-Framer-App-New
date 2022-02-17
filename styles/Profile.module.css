@@ -1,0 +1,129 @@
+.container {
+  /* padding: 0 2rem; */
+  color: var(--color2);
+  margin-bottom: 6rem;
+}
+
+.background {
+  background-color: thistle;
+  height: 330px;
+  position: relative;
+  padding-left: 2rem;
+  text-align: right;
+  margin-bottom: 4rem;
+}
+
+.imageContainer {
+  position: absolute;
+  top: 0;
+  left: 2rem;
+  text-align: left;
+}
+.profileImage {
+  border-bottom-left-radius: 24px;
+}
+
+.priceAmount {
+  font-size: 30px;
+  color: var(--color1);
+  margin: 0;
+  font-weight: 500;
+}
+.priceSubTextt {
+  font-size: 16px;
+  color: var(--color1);
+  margin: 0;
+  font-weight: 700;
+}
+.bioSubText {
+  font-size: 12px;
+  color: var(--color1);
+  margin: 0;
+  font-weight: 500;
+}
+
+.ratingContainer {
+  margin: 2rem 0;
+  font-size: 1.2rem;
+}
+
+.bigTextProfile {
+  font-size: 60px;
+  color: #fff;
+  margin: 0;
+  font-weight: 500;
+}
+
+.smallTextProfile {
+  font-size: 30px;
+  color: #fff;
+  margin: 0;
+}
+
+.locationContainer {
+  text-align: left;
+  margin-bottom: 2rem;
+}
+.greyText {
+  color: var(--color3);
+  font-size: 14px;
+  font-weight: 500;
+  margin: 0;
+  margin-bottom: 1rem;
+}
+.smallText {
+  color: var(--color2);
+  margin: 0;
+  font-weight: 500;
+}
+
+.experienceContainer {
+  text-align: left;
+  margin-bottom: 2rem;
+}
+
+.experienceContainerRow {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+}
+.experienceContainerRow::-webkit-scrollbar {
+  display: none;
+}
+
+.pictureItemWrapper {
+  margin-right: 1rem;
+  flex: 0 0 auto;
+}
+.pictureItem {
+  border-radius: 18px;
+}
+
+.buttonContainer {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  background-color: #fff;
+  padding: 7px;
+  box-shadow: 0px -3px 6px #00000040;
+}
+
+.buttonEle {
+  all: unset;
+  text-align: center;
+  color: #fff;
+  font-size: 16px;
+  background-color: #ff7575;
+  border-radius: 4px;
+  padding: 14px 0;
+}
+
+/* .bioContainer {
+  margin-bottom: 5rem;
+} */
+.wrapper {
+  padding: 0 2rem;
+}

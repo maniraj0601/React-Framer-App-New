@@ -1,0 +1,237 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "name": "Alice",
+            "age": 23,
+            "location": {
+                "city": "Kilcoole",
+                "state": "Waterford"
+            },
+            "fees": 500,
+            "about": {
+                "bio": "Photography is an austere and blazing poetry of the real. Photography is both, a skill and a talent. Photography is a trained skill: You must learn about optics, composition, metering, photo treatment, themes, gear, business (the list may never end)",
+                "profession": "Photographer"
+            },
+            "picture": "https://randomuser.me/api/portraits/men/75.jpg",
+            "experience": [
+                "https://picsum.photos/id/237/200/300",
+                "https://picsum.photos/id/238/200/300",
+                "https://picsum.photos/id/239/200/300",
+                "https://picsum.photos/id/240/200/300"
+            ],
+            "background": "#FFE6E6",
+            "shadow": "#90000036",
+            "rating": {
+                "value": 4,
+                "color": "#FF5151"
+            }
+        },
+        {
+            "id": "2",
+            "name": "Mike",
+            "age": 23,
+            "location": {
+                "city": "Mumbai",
+                "state": "Maharastra"
+            },
+            "fees": 600,
+            "about": {
+                "bio": "Cooking is an austere and blazing poetry of the real. Cooking is both, a skill and a talent. Cooking is a trained skill: You must learn about optics, composition, metering, photo treatment, themes, gear, business (the list may never end)",
+                "profession": "Cook"
+            },
+            "picture": "https://randomuser.me/api/portraits/men/76.jpg",
+            "experience": [
+                "https://picsum.photos/id/241/200/300",
+                "https://picsum.photos/id/240/200/300"
+            ],
+            "background": "#FFE6F8",
+            "shadow": "#90000036",
+            "rating": {
+                "value": 3,
+                "color": "#FF7DDB"
+            }
+        },
+        {
+            "id": "3",
+            "name": "Juliet",
+            "age": 23,
+            "location": {
+                "city": "Pune",
+                "state": "Maharastra"
+            },
+            "fees": 600,
+            "about": {
+                "bio": "Cooking is an austere and blazing poetry of the real. Cooking is both, a skill and a talent. Cooking is a trained skill: You must learn about optics, composition, metering, photo treatment, themes, gear, business (the list may never end)",
+                "profession": "Cook"
+            },
+            "picture": "https://randomuser.me/api/portraits/men/78.jpg",
+            "experience": [
+                "https://picsum.photos/id/241/200/300",
+                "https://picsum.photos/id/240/200/300"
+            ],
+            "background": "#E6F8FF",
+            "shadow": "#90000036",
+            "rating": {
+                "value": 3,
+                "color": "#51CEFF"
+            }
+        },
+        {
+            "id": "4",
+            "name": "Romeo",
+            "age": 23,
+            "location": {
+                "city": "Dubai",
+                "state": "Dubai"
+            },
+            "fees": 500,
+            "about": {
+                "bio": "Photography is an austere and blazing poetry of the real. Photography is both, a skill and a talent. Photography is a trained skill: You must learn about optics, composition, metering, photo treatment, themes, gear, business (the list may never end)",
+                "profession": "Photographer"
+            },
+            "picture": "https://randomuser.me/api/portraits/men/79.jpg",
+            "experience": [
+                "https://picsum.photos/id/237/200/300",
+                "https://picsum.photos/id/238/200/300",
+                "https://picsum.photos/id/239/200/300",
+                "https://picsum.photos/id/240/200/300"
+            ],
+            "background": "#EAFFE6",
+            "shadow": "#90000036",
+            "rating": {
+                "value": 4,
+                "color": "#65EA4C"
+            }
+        },
+        {
+            "id": "5",
+            "name": "Mani",
+            "age": 23,
+            "location": {
+                "city": "Thane",
+                "state": "Maharastra"
+            },
+            "fees": 600,
+            "about": {
+                "bio": "Cooking is an austere and blazing poetry of the real. Cooking is both, a skill and a talent. Cooking is a trained skill: You must learn about optics, composition, metering, photo treatment, themes, gear, business (the list may never end)",
+                "profession": "Cook"
+            },
+            "picture": "https://randomuser.me/api/portraits/men/80.jpg",
+            "experience": [
+                "https://picsum.photos/id/241/200/300",
+                "https://picsum.photos/id/240/200/300"
+            ],
+            "background": "#E6EFFF",
+            "shadow": "#90000036",
+            "rating": {
+                "value": 3,
+                "color": "#6CA0FD"
+            }
+        },
+        {
+            "id": "6",
+            "name": "Joylin",
+            "age": 23,
+            "location": {
+                "city": "Udupi",
+                "state": "karnataka"
+            },
+            "fees": 300,
+            "about": {
+                "bio": "Photography is an austere and blazing poetry of the real. Photography is both, a skill and a talent. Photography is a trained skill: You must learn about optics, composition, metering, photo treatment, themes, gear, business (the list may never end)",
+                "profession": "Photographer"
+            },
+            "picture": "https://randomuser.me/api/portraits/men/77.jpg",
+            "experience": [
+                "https://picsum.photos/id/237/200/300",
+                "https://picsum.photos/id/238/200/300",
+                "https://picsum.photos/id/239/200/300",
+                "https://picsum.photos/id/240/200/300"
+            ],
+            "background": "#FFF8E6",
+            "shadow": "#90000036",
+            "rating": {
+                "value": 4,
+                "color": "#FFCB47"
+            }
+        },
+        {
+            "id": "7",
+            "name": "Aravind",
+            "age": 23,
+            "location": {
+                "city": "Kilcoole",
+                "state": "Waterford"
+            },
+            "fees": 500,
+            "about": {
+                "bio": "Photography is an austere and blazing poetry of the real. Photography is both, a skill and a talent. Photography is a trained skill: You must learn about optics, composition, metering, photo treatment, themes, gear, business (the list may never end)",
+                "profession": "Photographer"
+            },
+            "picture": "https://randomuser.me/api/portraits/men/75.jpg",
+            "experience": [
+                "https://picsum.photos/id/237/200/300",
+                "https://picsum.photos/id/238/200/300",
+                "https://picsum.photos/id/239/200/300",
+                "https://picsum.photos/id/240/200/300"
+            ],
+            "background": "#FFE6E6",
+            "shadow": "#90000036",
+            "rating": {
+                "value": 4,
+                "color": "#FF5151"
+            }
+        },
+        {
+            "id": "8",
+            "name": "tyson",
+            "age": 23,
+            "location": {
+                "city": "Mumbai",
+                "state": "Maharastra"
+            },
+            "fees": 600,
+            "about": {
+                "bio": "Cooking is an austere and blazing poetry of the real. Cooking is both, a skill and a talent. Cooking is a trained skill: You must learn about optics, composition, metering, photo treatment, themes, gear, business (the list may never end)",
+                "profession": "Cook"
+            },
+            "picture": "https://randomuser.me/api/portraits/men/76.jpg",
+            "experience": [
+                "https://picsum.photos/id/241/200/300",
+                "https://picsum.photos/id/240/200/300"
+            ],
+            "background": "#FFE6F8",
+            "shadow": "#90000036",
+            "rating": {
+                "value": 3,
+                "color": "#FF7DDB"
+            }
+        },
+        {
+            "id": "9",
+            "name": "harish",
+            "age": 23,
+            "location": {
+                "city": "Pune",
+                "state": "Maharastra"
+            },
+            "fees": 600,
+            "about": {
+                "bio": "Cooking is an austere and blazing poetry of the real. Cooking is both, a skill and a talent. Cooking is a trained skill: You must learn about optics, composition, metering, photo treatment, themes, gear, business (the list may never end)",
+                "profession": "Cook"
+            },
+            "picture": "https://randomuser.me/api/portraits/men/78.jpg",
+            "experience": [
+                "https://picsum.photos/id/241/200/300",
+                "https://picsum.photos/id/240/200/300"
+            ],
+            "background": "#E6F8FF",
+            "shadow": "#90000036",
+            "rating": {
+                "value": 3,
+                "color": "#51CEFF"
+            }
+        }
+    ]
+}
